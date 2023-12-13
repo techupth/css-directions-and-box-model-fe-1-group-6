@@ -1,1 +1,25 @@
 /* Start coding here */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgrey ;
+}
+div{
+    height: 100vh;
+    margin: 16px;
+    border: 16px solid black;
+    background-color: crimson;
+    padding: 24px;
+}
+
+h1{
+    text-align: center;
+    height: 100%;
+    background-color: khaki;
+    font-size: 72px;
+    padding-top: 30px;
+}
