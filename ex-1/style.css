@@ -1,1 +1,33 @@
 /* Start coding here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #92AABD;
+    height: 50px;
+    padding: 10px 0px 0px 15px;
+}
+
+section {
+    background-color: #E4E9ED;
+    border: 2px solid #183B56;
+    height: 250px;
+    width: 400px;
+    margin: 40px 40px;
+    padding: 10px;
+}
+
+img{
+    width: 80%;
+}
+
+h3{
+    margin:10px 0px;
+}
+
+p{
+    margin: 10px 0px;
+}
